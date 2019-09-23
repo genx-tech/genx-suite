@@ -20,8 +20,8 @@ Gen-X software development tools suite
     * Automatically generate basic test cases
     * Automatically generate development manual & API reference document
   
-  * GxApp - CLI application framework
-  * GxServer - Http based micro-service hosting container
+  * GxApp - CLI application framework [repo](https://github.com/genx-tech/gx-app)
+  * GxServer - Http based micro-service hosting container [repo](https://github.com/genx-tech/gx-server)
   
 * Design web pages & mobile UI with WYSIWYG capability
 
